@@ -2,10 +2,10 @@ from calculator import BallisticsToTarget, OutOfRangeException
 import customtkinter as ctk
 
 ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("dark-blue")
+ctk.set_default_color_theme("dark-purple")
 
 root = ctk.CTk()
-root.title('Create Big Cannons : Ballistic Calculator')
+root.title('Create Freaky 👅 Cannons : Ballistic Calculator')
 root.geometry("1600x768")
 
 
